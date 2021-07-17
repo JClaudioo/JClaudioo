@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <center>
 <table>
     <tr>
@@ -9,5 +7,14 @@
 </table>
 </center> 
 
-<a href="https://www.linkedin.com/in/jclaudioo/"><img src="https://github.com/JClaudioo/imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jclaudioo)  
+Olá, Bem Vindo :)
+
+Sou estudante de Sistemas de Informação pelo Instituto Federal Goiano - Campus Ceres. Estudo atualmente para ser um desenvolvedor Front-end. 
+
+Para me encontrar, segue minhas redes sociais abaixo. 
+
+<a href="https://www.linkedin.com/in/jclaudioo/"><img src="https://github.com/JClaudio/JClaudio/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jclaudioo)  
+
+<a href="https://www.instagram.com/j_claudio/"><img src="https://github.com/JClaudio/JClaudio/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/j_claudio/) 
+
 
